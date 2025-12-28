@@ -1,3 +1,4 @@
+- Research Paper For This Prototype --> ![StealthCrypter_AES-GCM_2025](https://github.com/The-Real-Virus/Research-Papers)
 # 💀StealthCrypter💀
 
 ## 📜 Description
